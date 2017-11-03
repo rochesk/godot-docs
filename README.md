@@ -4,6 +4,8 @@ This repository contains the source files of [Godot Engine](http://godotengine.o
 
 They are meant to be parsed with the [Sphinx](http://sphinx-doc.org/) documentation builder to build the HTML documentation on [Godot's website](http://docs.godotengine.org).
 
+本仓库包含了[Godot Engine](http://gogodengine.org)引擎的rst格式文档源码
+
 ## Contributing changes
 
 Though arguably less convenient to edit than a wiki, this git repository is meant to receive pull requests to always improve the documentation, add new pages, etc. Having direct access to the source files in a revision control system is a big plus to ensure the quality of our documentation.
